@@ -1,0 +1,2 @@
+# SamApp
+Creating Laravel App
